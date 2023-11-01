@@ -11,9 +11,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on SQL projects
 - 📫 How to reach me: meghamsh25@gmail.com
 - 😄 Pronouns: Him
+  <!--
 ### 🤝 Connect with me:
 
 <a href="(https://www.linkedin.com/in/meghamsh-sriram-499a82227/)"><img align="left" src="https://www.linkedin.com/in/meghamsh-sriram-499a82227/" alt="Yu Shi | LinkedIn" width="21px"/></a>
+-->
 
 
 
