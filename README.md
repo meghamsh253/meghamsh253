@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on SQL projects
 - 📫 How to reach me: meghamsh25@gmail.com
 - 😄 Pronouns: Him
+- [![An image of @shaktikanthdas's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shaktikanthdas)](https://holopin.io/@shaktikanthdas)
   <!--
 ### 🤝 Connect with me:
 
