@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PowerBI projects 
+- 🔭 I’m currently Interning at Cognizant 
 - 🌱 I’m currently learning various data manipulation techniques
 - 👯 I’m looking to collaborate on SQL projects
 - 📫 How to reach me: meghamsh25@gmail.com
